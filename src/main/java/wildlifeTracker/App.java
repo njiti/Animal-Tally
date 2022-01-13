@@ -15,6 +15,8 @@ import java.util.List;
 public class App {
 
 
+    private static Endangered NonEndangered;
+
     public static void main(String[] args) throws Exception {
         staticFileLocation("/public");
         String layout = "templates/layout.vtl";
