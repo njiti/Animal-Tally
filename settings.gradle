@@ -1,0 +1,3 @@
+rootProject.name = 'Animal-Tally'
+include 'count'
+
